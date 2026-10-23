@@ -1,1 +1,2 @@
 lab-6/.git/
+Add-Content -Path .gitignore -Value "auto_git.ps1"
